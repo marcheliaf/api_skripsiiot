@@ -1,0 +1,5 @@
+git add .
+git commit -m "Masukkan pesan apapun"
+git fetch
+git merge
+git push -u origin master
